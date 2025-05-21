@@ -1,0 +1,6 @@
+/* variables */
+@import "./styles/variables/colors.css";
+@import "./styles//variables/reset.css";
+/* components */
+@import "./styles/nav.css";
+@import "./styles/canvas.css"
